@@ -35,7 +35,7 @@
 
 
 
-## 📊 <b>Github Stats</b>
+<!-- ## 📊 <b>Github Stats</b>
 
 <p align="center">
 	<a href="https://github.com/NelunikaDGNN">
@@ -44,7 +44,7 @@
 	<br/>
 <br/>
 
-</p>
+</p> -->
 
 
 
