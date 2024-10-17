@@ -38,7 +38,7 @@
 ## 📊 <b>Github Stats</b>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/NelunikaDGNN">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
 	</a>
 	<br/>
